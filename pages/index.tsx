@@ -1,10 +1,13 @@
 
-
-export default function Home() {
+const HomePokemonPage = () => {
   return (
     <>
-      <h1>Hola mundo</h1>
-      <p>Holis de nuevo</p>
+      <h1>Hello word</h1>
     </>
   )
 }
+
+
+
+export default HomePokemonPage
+
